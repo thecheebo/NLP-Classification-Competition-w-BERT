@@ -13,6 +13,9 @@ Here is the link and screenshot of us beating the baseline.
 http://livelab.centralus.cloudapp.azure.com/project/leaderboard/303268761
 (You will have to log in).
 
+
+![alt text](https://github.com/thecheebo/CourseProject/livelab.JPG?raw=true)
+
 The image is found in the repository: livelab.JPG
 
 If you have any further questions after reading our report, please contact any of the group members.
