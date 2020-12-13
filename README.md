@@ -14,7 +14,7 @@ http://livelab.centralus.cloudapp.azure.com/project/leaderboard/303268761
 (You will have to log in).
 
 
-![alt text](https://github.com/thecheebo/CourseProject/blob/Main/livelab.JPG?raw=true)
+![alt text](https://github.com/thecheebo/CourseProject/blob/main/livelab.JPG?raw=true)
 
 The image is found in the repository: livelab.JPG
 
